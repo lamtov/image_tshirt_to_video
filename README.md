@@ -26,6 +26,6 @@ pip install opencv-python
 conda install -y -c anaconda tk
 conda install -y -c anaconda pillow
 ```
-pyinstaller  --onefile  --add-binary C:/Users/Lam/Documents/TOVANLAM_MMO/Python_PSD/main/opencv_videoio_ffmpeg451_64.dll;.   -F C:/Users/Lam/Documents/TOVANLAM_MMO/Python_PSD/main/main.py  -p C:/Users/Lam/.conda/envs/minimal_example/python.exe 
+pyinstaller  --onefile  --add-binary C:/Users/Lam/Documents/TOVANLAM_MMO/Python_PSD/main/opencv_videoio_ffmpeg451_64.dll;.   -F C:/Users/Lam/Documents/TOVANLAM_MMO/Python_PSD/main/tshirt_video_generator.py  -p C:/Users/Lam/.conda/envs/minimal_example/python.exe 
 
 # File chay o trong thu muc dist, phai copy thu muc dataset dat canh de lay font tu dataset/font
