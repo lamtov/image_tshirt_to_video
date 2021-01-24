@@ -1,0 +1,1393 @@
+14:20:42,140 root INFO Running  
+14:20:45,242 root DEBUG OK
+14:20:45,242 root DEBUG ['11 [Converted]-01.png', '11 [Converted]-02.png', '11 [Converted]-03.png', '11 [Converted]-04.png', '11 [Converted]-05.png', '11 [Converted]-06.png', '11 [Converted]-07.png', '447857-PF1FKN-86-02.png']
+14:20:45,265 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:20:45,265 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:20:45,265 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:20:54,933 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:20:54,933 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:20:54,934 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:21:04,433 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:21:04,436 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:21:04,436 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:22:42,865 root INFO Running  
+14:22:52,374 root DEBUG OK
+14:22:52,377 root DEBUG ['11 [Converted]-01.png', '11 [Converted]-02.png', '11 [Converted]-03.png', '11 [Converted]-04.png', '11 [Converted]-05.png', '11 [Converted]-06.png', '11 [Converted]-07.png', '447857-PF1FKN-86-02.png']
+14:22:52,382 root DEBUG STOP
+14:22:52,382 root DEBUG RUNNING11 [Converted]-01
+14:22:52,382 root DEBUG RUNNING11 [Converted]-03
+14:22:52,382 root DEBUG RUNNING11 [Converted]-02
+14:22:52,382 root DEBUG RUNNING11 [Converted]-05
+14:22:52,382 root DEBUG RUNNING11 [Converted]-04
+14:22:52,403 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:22:52,403 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:22:52,403 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:22:52,443 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:22:52,444 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:22:52,444 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:22:52,450 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:22:52,450 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:22:52,450 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:22:52,451 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:22:52,451 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:22:52,451 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:22:52,452 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:22:52,452 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:22:52,452 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:23:14,198 root DEBUG DONE11 [Converted]-02
+14:23:14,204 root DEBUG RUNNING11 [Converted]-06
+14:23:14,219 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:23:14,219 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:23:14,219 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:23:14,290 root DEBUG DONE11 [Converted]-03
+14:23:14,291 root DEBUG RUNNING11 [Converted]-07
+14:23:14,302 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:23:14,302 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:23:14,302 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:23:14,334 root DEBUG DONE11 [Converted]-01
+14:23:14,335 root DEBUG RUNNING447857-PF1FKN-86-02
+14:23:14,353 root DEBUG DONE11 [Converted]-04
+14:23:14,354 root DEBUG DONE ALL
+14:23:14,355 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:23:14,355 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:23:14,355 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:23:14,368 root DEBUG DONE11 [Converted]-05
+14:23:14,368 root DEBUG DONE ALL
+14:23:29,568 root DEBUG DONE11 [Converted]-07
+14:23:29,569 root DEBUG DONE ALL
+14:23:29,735 root DEBUG DONE11 [Converted]-06
+14:23:29,738 root DEBUG DONE ALL
+14:23:29,866 root DEBUG DONE447857-PF1FKN-86-02
+14:23:29,867 root DEBUG DONE ALL
+14:24:38,852 root INFO Running  
+14:25:16,695 root DEBUG OK
+14:25:16,698 root DEBUG ['447857-PF1FKN-86-02.png']
+14:25:16,699 root DEBUG STOP
+14:25:16,699 root DEBUG RUNNING447857-PF1FKN-86-02
+14:25:16,735 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:25:16,735 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:25:16,735 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:25:17,932 root DEBUG DONE447857-PF1FKN-86-02
+14:25:17,933 root DEBUG DONE ALL
+14:27:20,617 root INFO Running  
+14:27:36,588 root INFO Running  
+14:28:05,763 root INFO Running  
+14:31:42,811 root INFO Running  
+14:32:48,897 root INFO Running  
+14:32:51,273 root DEBUG OK
+14:32:51,277 root DEBUG ['447857-PF1FKN-86-02.png']
+14:32:51,278 root DEBUG STOP
+14:32:51,278 root DEBUG RUNNING447857-PF1FKN-86-02
+14:32:51,312 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:32:51,313 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:32:51,313 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:32:52,190 root DEBUG DONE447857-PF1FKN-86-02
+14:32:52,192 root DEBUG DONE ALL
+14:33:12,980 root INFO Running  
+14:33:14,598 root DEBUG OK
+14:33:14,600 root DEBUG ['447857-PF1FKN-86-02.png']
+14:33:14,602 root DEBUG STOP
+14:33:14,602 root DEBUG RUNNING447857-PF1FKN-86-02
+14:33:14,637 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:33:14,637 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:33:14,637 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:33:15,507 root DEBUG DONE447857-PF1FKN-86-02
+14:33:15,508 root DEBUG DONE ALL
+14:33:34,22 root INFO Running  
+14:33:35,334 root DEBUG OK
+14:33:35,337 root DEBUG ['447857-PF1FKN-86-02.png']
+14:33:35,338 root DEBUG STOP
+14:33:35,338 root DEBUG RUNNING447857-PF1FKN-86-02
+14:33:35,375 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:33:35,375 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:33:35,375 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:33:36,252 root DEBUG DONE447857-PF1FKN-86-02
+14:33:36,254 root DEBUG DONE ALL
+14:34:04,570 root INFO Running  
+14:34:06,534 root DEBUG OK
+14:34:06,537 root DEBUG ['447857-PF1FKN-86-02.png']
+14:34:06,538 root DEBUG STOP
+14:34:06,538 root DEBUG RUNNING447857-PF1FKN-86-02
+14:34:06,573 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:34:06,573 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:34:06,573 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:34:07,446 root DEBUG DONE447857-PF1FKN-86-02
+14:34:07,448 root DEBUG DONE ALL
+14:34:21,53 root INFO Running  
+14:34:24,630 root DEBUG OK
+14:34:24,632 root DEBUG ['447857-PF1FKN-86-02.png']
+14:34:24,634 root DEBUG STOP
+14:34:24,634 root DEBUG RUNNING447857-PF1FKN-86-02
+14:34:24,669 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:34:24,669 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:34:24,669 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:34:25,545 root DEBUG DONE447857-PF1FKN-86-02
+14:34:25,546 root DEBUG DONE ALL
+14:34:38,591 root INFO Running  
+14:34:40,297 root DEBUG OK
+14:34:40,300 root DEBUG ['447857-PF1FKN-86-02.png']
+14:34:40,301 root DEBUG STOP
+14:34:40,301 root DEBUG RUNNING447857-PF1FKN-86-02
+14:34:40,336 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:34:40,336 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:34:40,336 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:34:41,204 root DEBUG DONE447857-PF1FKN-86-02
+14:34:41,205 root DEBUG DONE ALL
+14:35:32,368 root INFO Running  
+14:35:34,457 root DEBUG OK
+14:35:34,459 root DEBUG ['447857-PF1FKN-86-02.png']
+14:35:34,461 root DEBUG STOP
+14:35:34,461 root DEBUG RUNNING447857-PF1FKN-86-02
+14:35:34,496 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:35:34,497 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:35:34,497 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:35:35,358 root DEBUG DONE447857-PF1FKN-86-02
+14:35:35,359 root DEBUG DONE ALL
+14:36:08,82 root INFO Running  
+14:36:10,406 root DEBUG OK
+14:36:10,410 root DEBUG ['447857-PF1FKN-86-02.png']
+14:36:10,411 root DEBUG STOP
+14:36:10,411 root DEBUG RUNNING447857-PF1FKN-86-02
+14:36:10,446 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:36:10,446 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:36:10,446 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:36:11,319 root DEBUG DONE447857-PF1FKN-86-02
+14:36:11,320 root DEBUG DONE ALL
+14:36:45,350 root INFO Running  
+14:36:47,284 root DEBUG OK
+14:36:47,285 root DEBUG ['447857-PF1FKN-86-02.png']
+14:36:47,286 root DEBUG STOP
+14:36:47,286 root DEBUG RUNNING447857-PF1FKN-86-02
+14:36:47,467 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:36:47,467 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:36:47,467 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:36:47,545 root DEBUG SOME THING WRONG + merge_video_and_file
+14:36:47,549 root DEBUG DONE447857-PF1FKN-86-02
+14:36:47,550 root DEBUG DONE ALL
+14:37:46,641 root INFO Running  
+14:37:48,189 root DEBUG OK
+14:37:48,189 root DEBUG ['447857-PF1FKN-86-02.png']
+14:37:48,190 root DEBUG STOP
+14:37:48,190 root DEBUG RUNNING447857-PF1FKN-86-02
+14:37:48,353 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:37:48,353 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:37:48,353 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:37:48,431 root DEBUG SOME THING WRONG + merge_video_and_file
+14:37:48,434 root DEBUG DONE447857-PF1FKN-86-02
+14:37:48,435 root DEBUG DONE ALL
+14:40:10,722 root INFO Running  
+14:40:12,406 root DEBUG OK
+14:40:12,407 root DEBUG ['447857-PF1FKN-86-02.png']
+14:40:12,408 root DEBUG STOP
+14:40:12,408 root DEBUG RUNNING447857-PF1FKN-86-02
+14:40:12,575 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:40:12,575 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:40:12,575 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:40:12,652 root DEBUG height and width must be > 0
+14:40:12,653 root DEBUG SOME THING WRONG + merge_video_and_file
+14:40:12,655 root DEBUG DONE447857-PF1FKN-86-02
+14:40:12,656 root DEBUG DONE ALL
+14:40:41,499 root INFO Running  
+14:40:42,834 root DEBUG OK
+14:40:42,835 root DEBUG ['447857-PF1FKN-86-02.png']
+14:40:42,836 root DEBUG STOP
+14:40:42,836 root DEBUG RUNNING447857-PF1FKN-86-02
+14:40:43,1 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:40:43,1 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:40:43,1 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:40:43,69 root DEBUG height and width must be > 0
+14:40:43,69 root DEBUG SOME THING WRONG + merge_video_and_file
+14:40:43,85 root DEBUG DONE447857-PF1FKN-86-02
+14:40:43,86 root DEBUG DONE ALL
+14:43:28,900 root INFO Running  
+14:43:30,501 root DEBUG OK
+14:43:30,501 root DEBUG ['447857-PF1FKN-86-02.png']
+14:43:30,503 root DEBUG STOP
+14:43:30,503 root DEBUG RUNNING447857-PF1FKN-86-02
+14:43:30,749 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:43:30,749 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:43:30,749 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:43:30,871 root DEBUG height and width must be > 0
+14:43:30,871 root DEBUG SOME THING WRONG + merge_video_and_file
+14:43:30,875 root DEBUG DONE447857-PF1FKN-86-02
+14:43:30,875 root DEBUG DONE ALL
+14:43:55,381 root INFO Running  
+14:43:56,729 root DEBUG OK
+14:43:56,729 root DEBUG ['447857-PF1FKN-86-02.png']
+14:43:56,731 root DEBUG STOP
+14:43:56,731 root DEBUG RUNNING447857-PF1FKN-86-02
+14:43:56,981 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:43:56,981 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:43:56,981 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:43:57,102 root DEBUG height and width must be > 0
+14:43:57,102 root DEBUG SOME THING WRONG + merge_video_and_file
+14:43:57,106 root DEBUG DONE447857-PF1FKN-86-02
+14:43:57,107 root DEBUG DONE ALL
+14:44:26,495 root DEBUG DONE ALL
+14:44:53,571 root INFO Running  
+14:44:54,808 root DEBUG OK
+14:44:54,809 root DEBUG ['447857-PF1FKN-86-02.png']
+14:44:54,810 root DEBUG STOP
+14:44:54,810 root DEBUG RUNNING447857-PF1FKN-86-02
+14:44:54,979 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:44:54,980 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:44:54,980 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:44:55,74 root DEBUG height and width must be > 0
+14:44:55,74 root DEBUG SOME THING WRONG + merge_video_and_file
+14:44:55,77 root DEBUG DONE447857-PF1FKN-86-02
+14:44:55,78 root DEBUG DONE ALL
+14:45:09,101 root INFO Running  
+14:45:10,311 root DEBUG OK
+14:45:10,311 root DEBUG ['447857-PF1FKN-86-02.png']
+14:45:10,312 root DEBUG STOP
+14:45:10,312 root DEBUG RUNNING447857-PF1FKN-86-02
+14:45:10,497 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:45:10,497 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:45:10,497 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:45:10,578 root DEBUG height and width must be > 0
+14:45:10,578 root DEBUG SOME THING WRONG + merge_video_and_file
+14:45:10,581 root DEBUG DONE447857-PF1FKN-86-02
+14:45:10,582 root DEBUG DONE ALL
+14:45:22,481 root INFO Running  
+14:45:23,748 root DEBUG OK
+14:45:23,749 root DEBUG ['447857-PF1FKN-86-02.png']
+14:45:23,750 root DEBUG STOP
+14:45:23,750 root DEBUG RUNNING447857-PF1FKN-86-02
+14:45:23,925 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:45:23,925 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:45:23,925 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:45:24,3 root DEBUG height and width must be > 0
+14:45:24,3 root DEBUG SOME THING WRONG + merge_video_and_file
+14:45:24,6 root DEBUG DONE447857-PF1FKN-86-02
+14:45:24,7 root DEBUG DONE ALL
+14:45:40,304 root INFO Running  
+14:45:41,906 root DEBUG OK
+14:45:41,907 root DEBUG ['447857-PF1FKN-86-02.png']
+14:45:41,908 root DEBUG STOP
+14:45:41,908 root DEBUG RUNNING447857-PF1FKN-86-02
+14:45:42,80 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:45:42,80 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:45:42,80 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:45:42,160 root DEBUG height and width must be > 0
+14:45:42,160 root DEBUG SOME THING WRONG + merge_video_and_file
+14:45:42,162 root DEBUG DONE447857-PF1FKN-86-02
+14:45:42,163 root DEBUG DONE ALL
+14:46:21,715 root INFO Running  
+14:46:25,53 root DEBUG OK
+14:46:25,53 root DEBUG ['447857-PF1FKN-86-02.png']
+14:46:25,53 root DEBUG STOP
+14:46:25,53 root DEBUG RUNNING447857-PF1FKN-86-02
+14:46:25,233 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:46:25,233 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:46:25,233 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:46:25,310 root DEBUG height and width must be > 0
+14:46:25,310 root DEBUG SOME THING WRONG + merge_video_and_file
+14:46:25,313 root DEBUG DONE447857-PF1FKN-86-02
+14:46:25,313 root DEBUG DONE ALL
+14:47:19,386 root INFO Running  
+14:47:20,984 root DEBUG OK
+14:47:20,985 root DEBUG ['447857-PF1FKN-86-02.png']
+14:47:20,986 root DEBUG STOP
+14:47:20,986 root DEBUG RUNNING447857-PF1FKN-86-02
+14:47:21,157 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:47:21,157 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:47:21,157 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:47:21,235 root DEBUG height and width must be > 0
+14:47:21,236 root DEBUG SOME THING WRONG + thread_merge_video
+14:48:48,551 root INFO Running  
+14:48:50,159 root DEBUG OK
+14:48:50,163 root DEBUG ['447857-PF1FKN-86-02.png']
+14:48:50,165 root DEBUG STOP
+14:48:50,165 root DEBUG RUNNING447857-PF1FKN-86-02
+14:48:50,195 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:48:50,195 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:48:50,195 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:48:59,243 root DEBUG DONE447857-PF1FKN-86-02
+14:48:59,247 root DEBUG DONE ALL
+14:53:32,259 root INFO Running  
+14:53:33,510 root DEBUG OK
+14:53:33,512 root DEBUG ['447857-PF1FKN-86-02.png']
+14:53:33,514 root DEBUG STOP
+14:53:33,514 root DEBUG RUNNING447857-PF1FKN-86-02
+14:53:33,534 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:53:33,534 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:53:33,534 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:53:40,210 root DEBUG DONE447857-PF1FKN-86-02
+14:53:40,211 root DEBUG DONE ALL
+14:54:27,413 root INFO Running  
+14:54:28,822 root DEBUG OK
+14:54:28,825 root DEBUG ['447857-PF1FKN-86-02.png']
+14:54:28,827 root DEBUG STOP
+14:54:28,827 root DEBUG RUNNING447857-PF1FKN-86-02
+14:54:28,847 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:54:28,847 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:54:28,847 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:54:35,205 root DEBUG DONE447857-PF1FKN-86-02
+14:54:35,206 root DEBUG DONE ALL
+14:55:13,186 root INFO Running  
+14:55:14,932 root DEBUG OK
+14:55:14,936 root DEBUG ['447857-PF1FKN-86-02.png']
+14:55:14,937 root DEBUG STOP
+14:55:14,937 root DEBUG RUNNING447857-PF1FKN-86-02
+14:55:14,958 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:55:14,958 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:55:14,958 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:55:21,254 root DEBUG DONE447857-PF1FKN-86-02
+14:55:21,255 root DEBUG DONE ALL
+14:55:46,298 root INFO Running  
+14:55:48,361 root DEBUG OK
+14:55:48,364 root DEBUG ['447857-PF1FKN-86-02.png']
+14:55:48,365 root DEBUG STOP
+14:55:48,365 root DEBUG RUNNING447857-PF1FKN-86-02
+14:55:48,386 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:55:48,386 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:55:48,386 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:55:54,611 root DEBUG DONE447857-PF1FKN-86-02
+14:55:54,612 root DEBUG DONE ALL
+14:56:42,720 root INFO Running  
+14:56:45,39 root DEBUG OK
+14:56:45,42 root DEBUG ['447857-PF1FKN-86-02.png']
+14:56:45,43 root DEBUG STOP
+14:56:45,43 root DEBUG RUNNING447857-PF1FKN-86-02
+14:56:45,77 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:56:45,77 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:56:45,77 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:56:51,289 root DEBUG DONE447857-PF1FKN-86-02
+14:56:51,291 root DEBUG DONE ALL
+14:57:10,573 root INFO Running  
+14:57:12,56 root DEBUG OK
+14:57:12,59 root DEBUG ['447857-PF1FKN-86-02.png']
+14:57:12,60 root DEBUG STOP
+14:57:12,60 root DEBUG RUNNING447857-PF1FKN-86-02
+14:57:12,81 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:57:12,81 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:57:12,81 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:57:18,369 root DEBUG DONE447857-PF1FKN-86-02
+14:57:18,377 root DEBUG DONE ALL
+14:58:26,444 root INFO Running  
+14:58:27,963 root DEBUG OK
+14:58:27,966 root DEBUG ['447857-PF1FKN-86-02.png']
+14:58:27,968 root DEBUG STOP
+14:58:27,968 root DEBUG RUNNING447857-PF1FKN-86-02
+14:58:27,988 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:58:27,988 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:58:27,988 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:58:34,178 root DEBUG DONE447857-PF1FKN-86-02
+14:58:34,179 root DEBUG DONE ALL
+14:59:25,681 root INFO Running  
+14:59:28,54 root DEBUG OK
+14:59:28,70 root DEBUG ['447857-PF1FKN-86-02.png']
+14:59:28,70 root DEBUG STOP
+14:59:28,70 root DEBUG RUNNING447857-PF1FKN-86-02
+14:59:28,91 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+14:59:28,91 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+14:59:28,91 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+14:59:34,458 root DEBUG DONE447857-PF1FKN-86-02
+14:59:34,459 root DEBUG DONE ALL
+15:10:28,513 root INFO Running  
+15:10:30,95 root DEBUG OK
+15:10:30,98 root DEBUG ['447857-PF1FKN-86-02.png']
+15:10:30,100 root DEBUG STOP
+15:10:30,100 root DEBUG RUNNING447857-PF1FKN-86-02
+15:10:30,132 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+15:10:30,133 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+15:10:30,133 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+15:10:30,350 root DEBUG cannot open resource
+15:10:30,350 root DEBUG SOME THING WRONG + merge_video_and_file
+15:10:30,355 root DEBUG DONE447857-PF1FKN-86-02
+15:10:30,356 root DEBUG DONE ALL
+15:17:49,241 root INFO Running  
+15:17:51,218 root DEBUG OK
+15:17:51,221 root DEBUG ['447857-PF1FKN-86-02.png']
+15:17:51,222 root DEBUG STOP
+15:17:51,222 root DEBUG RUNNING447857-PF1FKN-86-02
+15:17:51,243 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+15:17:51,243 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+15:17:51,243 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+15:18:05,924 root DEBUG DONE447857-PF1FKN-86-02
+15:18:05,925 root DEBUG DONE ALL
+15:18:36,399 root INFO Running  
+15:18:38,376 root DEBUG OK
+15:18:38,379 root DEBUG ['447857-PF1FKN-86-02.png']
+15:18:38,381 root DEBUG STOP
+15:18:38,381 root DEBUG RUNNING447857-PF1FKN-86-02
+15:18:38,403 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+15:18:38,403 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+15:18:38,403 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+15:18:54,293 root DEBUG DONE447857-PF1FKN-86-02
+15:18:54,294 root DEBUG DONE ALL
+17:41:02,444 root INFO Running  
+17:41:13,385 root DEBUG OK
+17:41:13,388 root DEBUG ['447857-PF1FKN-86-02.png']
+17:41:13,390 root DEBUG STOP
+17:41:13,390 root DEBUG RUNNING447857-PF1FKN-86-02
+17:41:13,413 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:41:13,413 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:41:13,413 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:41:13,566 root DEBUG cannot open resource
+17:41:13,566 root DEBUG SOME THING WRONG + merge_video_and_file
+17:41:13,570 root DEBUG DONE447857-PF1FKN-86-02
+17:41:13,571 root DEBUG DONE ALL
+17:41:50,793 root INFO Running  
+17:41:52,294 root DEBUG OK
+17:41:52,297 root DEBUG ['447857-PF1FKN-86-02.png']
+17:41:52,298 root DEBUG STOP
+17:41:52,298 root DEBUG RUNNING447857-PF1FKN-86-02
+17:41:52,318 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:41:52,318 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:41:52,318 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:41:52,468 root DEBUG cannot open resource
+17:41:52,468 root DEBUG SOME THING WRONG + merge_video_and_file
+17:41:52,473 root DEBUG DONE447857-PF1FKN-86-02
+17:41:52,473 root DEBUG DONE ALL
+17:42:05,87 root INFO Running  
+17:42:06,381 root DEBUG OK
+17:42:06,384 root DEBUG ['447857-PF1FKN-86-02.png']
+17:42:06,385 root DEBUG STOP
+17:42:06,385 root DEBUG RUNNING447857-PF1FKN-86-02
+17:42:06,406 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:42:06,406 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:42:06,406 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:42:06,589 root DEBUG name 'font' is not defined
+17:42:06,600 root DEBUG name 'font' is not defined
+17:42:06,609 root DEBUG name 'font' is not defined
+17:42:06,618 root DEBUG name 'font' is not defined
+17:42:06,627 root DEBUG name 'font' is not defined
+17:42:06,636 root DEBUG name 'font' is not defined
+17:42:06,645 root DEBUG name 'font' is not defined
+17:42:06,654 root DEBUG name 'font' is not defined
+17:42:06,663 root DEBUG name 'font' is not defined
+17:42:06,673 root DEBUG name 'font' is not defined
+17:42:06,682 root DEBUG name 'font' is not defined
+17:42:06,691 root DEBUG name 'font' is not defined
+17:42:06,701 root DEBUG name 'font' is not defined
+17:42:06,710 root DEBUG name 'font' is not defined
+17:42:06,718 root DEBUG name 'font' is not defined
+17:42:06,727 root DEBUG name 'font' is not defined
+17:42:06,736 root DEBUG name 'font' is not defined
+17:42:06,745 root DEBUG name 'font' is not defined
+17:42:06,754 root DEBUG name 'font' is not defined
+17:42:06,763 root DEBUG name 'font' is not defined
+17:42:06,772 root DEBUG name 'font' is not defined
+17:42:06,781 root DEBUG name 'font' is not defined
+17:42:06,790 root DEBUG name 'font' is not defined
+17:42:06,799 root DEBUG name 'font' is not defined
+17:42:06,808 root DEBUG name 'font' is not defined
+17:42:06,817 root DEBUG name 'font' is not defined
+17:42:06,827 root DEBUG name 'font' is not defined
+17:42:06,837 root DEBUG name 'font' is not defined
+17:42:06,846 root DEBUG name 'font' is not defined
+17:42:06,855 root DEBUG name 'font' is not defined
+17:42:06,866 root DEBUG name 'font' is not defined
+17:42:06,875 root DEBUG name 'font' is not defined
+17:42:06,884 root DEBUG name 'font' is not defined
+17:42:06,894 root DEBUG name 'font' is not defined
+17:42:06,903 root DEBUG name 'font' is not defined
+17:42:06,913 root DEBUG name 'font' is not defined
+17:42:06,923 root DEBUG name 'font' is not defined
+17:42:06,932 root DEBUG name 'font' is not defined
+17:42:06,942 root DEBUG name 'font' is not defined
+17:42:06,950 root DEBUG name 'font' is not defined
+17:42:06,959 root DEBUG name 'font' is not defined
+17:42:06,968 root DEBUG name 'font' is not defined
+17:42:06,978 root DEBUG name 'font' is not defined
+17:42:06,987 root DEBUG name 'font' is not defined
+17:42:06,997 root DEBUG name 'font' is not defined
+17:42:07,6 root DEBUG name 'font' is not defined
+17:42:07,14 root DEBUG name 'font' is not defined
+17:42:07,24 root DEBUG name 'font' is not defined
+17:42:07,33 root DEBUG name 'font' is not defined
+17:42:07,43 root DEBUG name 'font' is not defined
+17:42:07,53 root DEBUG name 'font' is not defined
+17:42:07,63 root DEBUG name 'font' is not defined
+17:42:07,83 root DEBUG name 'font' is not defined
+17:42:07,92 root DEBUG name 'font' is not defined
+17:42:07,102 root DEBUG name 'font' is not defined
+17:42:07,111 root DEBUG name 'font' is not defined
+17:42:07,121 root DEBUG name 'font' is not defined
+17:42:07,132 root DEBUG name 'font' is not defined
+17:42:07,141 root DEBUG name 'font' is not defined
+17:42:07,151 root DEBUG name 'font' is not defined
+17:42:07,160 root DEBUG name 'font' is not defined
+17:42:07,169 root DEBUG name 'font' is not defined
+17:42:07,178 root DEBUG name 'font' is not defined
+17:42:07,187 root DEBUG name 'font' is not defined
+17:42:07,196 root DEBUG name 'font' is not defined
+17:42:07,206 root DEBUG name 'font' is not defined
+17:42:07,215 root DEBUG name 'font' is not defined
+17:42:07,224 root DEBUG name 'font' is not defined
+17:42:07,233 root DEBUG name 'font' is not defined
+17:42:07,243 root DEBUG name 'font' is not defined
+17:42:07,253 root DEBUG name 'font' is not defined
+17:42:07,263 root DEBUG name 'font' is not defined
+17:42:07,272 root DEBUG name 'font' is not defined
+17:42:07,282 root DEBUG name 'font' is not defined
+17:42:07,291 root DEBUG name 'font' is not defined
+17:42:07,301 root DEBUG name 'font' is not defined
+17:42:07,310 root DEBUG name 'font' is not defined
+17:42:07,320 root DEBUG name 'font' is not defined
+17:42:07,330 root DEBUG name 'font' is not defined
+17:42:07,340 root DEBUG name 'font' is not defined
+17:42:07,351 root DEBUG name 'font' is not defined
+17:42:07,364 root DEBUG name 'font' is not defined
+17:42:07,374 root DEBUG name 'font' is not defined
+17:42:07,384 root DEBUG name 'font' is not defined
+17:42:07,393 root DEBUG name 'font' is not defined
+17:42:07,403 root DEBUG name 'font' is not defined
+17:42:07,413 root DEBUG name 'font' is not defined
+17:42:07,422 root DEBUG name 'font' is not defined
+17:42:07,432 root DEBUG name 'font' is not defined
+17:42:07,441 root DEBUG name 'font' is not defined
+17:42:07,450 root DEBUG name 'font' is not defined
+17:42:07,459 root DEBUG name 'font' is not defined
+17:42:07,469 root DEBUG name 'font' is not defined
+17:42:07,481 root DEBUG name 'font' is not defined
+17:42:07,491 root DEBUG name 'font' is not defined
+17:42:07,501 root DEBUG name 'font' is not defined
+17:42:07,511 root DEBUG name 'font' is not defined
+17:42:07,521 root DEBUG name 'font' is not defined
+17:42:07,531 root DEBUG name 'font' is not defined
+17:42:07,541 root DEBUG name 'font' is not defined
+17:42:07,550 root DEBUG name 'font' is not defined
+17:42:07,561 root DEBUG name 'font' is not defined
+17:42:07,570 root DEBUG name 'font' is not defined
+17:42:07,580 root DEBUG name 'font' is not defined
+17:42:07,589 root DEBUG name 'font' is not defined
+17:42:07,598 root DEBUG name 'font' is not defined
+17:42:07,607 root DEBUG name 'font' is not defined
+17:42:07,617 root DEBUG name 'font' is not defined
+17:42:07,626 root DEBUG name 'font' is not defined
+17:42:07,635 root DEBUG name 'font' is not defined
+17:42:07,645 root DEBUG name 'font' is not defined
+17:42:07,654 root DEBUG name 'font' is not defined
+17:42:07,664 root DEBUG name 'font' is not defined
+17:42:07,673 root DEBUG name 'font' is not defined
+17:42:07,682 root DEBUG name 'font' is not defined
+17:42:07,693 root DEBUG name 'font' is not defined
+17:42:07,702 root DEBUG name 'font' is not defined
+17:42:07,712 root DEBUG name 'font' is not defined
+17:42:07,721 root DEBUG name 'font' is not defined
+17:42:07,730 root DEBUG name 'font' is not defined
+17:42:07,740 root DEBUG name 'font' is not defined
+17:42:07,749 root DEBUG name 'font' is not defined
+17:42:07,759 root DEBUG name 'font' is not defined
+17:42:07,769 root DEBUG name 'font' is not defined
+17:42:07,778 root DEBUG name 'font' is not defined
+17:42:07,788 root DEBUG name 'font' is not defined
+17:42:07,798 root DEBUG name 'font' is not defined
+17:42:07,807 root DEBUG name 'font' is not defined
+17:42:07,816 root DEBUG name 'font' is not defined
+17:42:07,825 root DEBUG name 'font' is not defined
+17:42:07,834 root DEBUG name 'font' is not defined
+17:42:07,843 root DEBUG name 'font' is not defined
+17:42:07,853 root DEBUG name 'font' is not defined
+17:42:07,862 root DEBUG name 'font' is not defined
+17:42:07,872 root DEBUG name 'font' is not defined
+17:42:07,881 root DEBUG name 'font' is not defined
+17:42:07,890 root DEBUG name 'font' is not defined
+17:42:07,899 root DEBUG name 'font' is not defined
+17:42:07,908 root DEBUG name 'font' is not defined
+17:42:07,918 root DEBUG name 'font' is not defined
+17:42:07,928 root DEBUG name 'font' is not defined
+17:42:07,938 root DEBUG name 'font' is not defined
+17:42:07,948 root DEBUG name 'font' is not defined
+17:42:07,958 root DEBUG name 'font' is not defined
+17:42:07,967 root DEBUG name 'font' is not defined
+17:42:07,978 root DEBUG name 'font' is not defined
+17:42:07,987 root DEBUG name 'font' is not defined
+17:42:07,997 root DEBUG name 'font' is not defined
+17:42:08,7 root DEBUG name 'font' is not defined
+17:42:08,18 root DEBUG name 'font' is not defined
+17:42:08,28 root DEBUG name 'font' is not defined
+17:42:08,38 root DEBUG name 'font' is not defined
+17:42:08,47 root DEBUG name 'font' is not defined
+17:42:08,57 root DEBUG name 'font' is not defined
+17:42:08,66 root DEBUG name 'font' is not defined
+17:42:08,75 root DEBUG name 'font' is not defined
+17:42:08,84 root DEBUG name 'font' is not defined
+17:42:08,94 root DEBUG name 'font' is not defined
+17:42:08,103 root DEBUG name 'font' is not defined
+17:42:08,112 root DEBUG name 'font' is not defined
+17:42:08,121 root DEBUG name 'font' is not defined
+17:42:08,131 root DEBUG name 'font' is not defined
+17:42:08,140 root DEBUG name 'font' is not defined
+17:42:08,151 root DEBUG name 'font' is not defined
+17:42:08,162 root DEBUG name 'font' is not defined
+17:42:08,173 root DEBUG name 'font' is not defined
+17:42:08,182 root DEBUG name 'font' is not defined
+17:42:08,192 root DEBUG name 'font' is not defined
+17:42:08,201 root DEBUG name 'font' is not defined
+17:42:08,210 root DEBUG name 'font' is not defined
+17:42:08,220 root DEBUG name 'font' is not defined
+17:42:08,229 root DEBUG name 'font' is not defined
+17:42:08,240 root DEBUG name 'font' is not defined
+17:42:08,250 root DEBUG name 'font' is not defined
+17:42:08,259 root DEBUG name 'font' is not defined
+17:42:08,269 root DEBUG name 'font' is not defined
+17:42:08,278 root DEBUG name 'font' is not defined
+17:42:08,287 root DEBUG name 'font' is not defined
+17:42:08,297 root DEBUG name 'font' is not defined
+17:42:08,306 root DEBUG name 'font' is not defined
+17:42:08,315 root DEBUG name 'font' is not defined
+17:42:08,326 root DEBUG name 'font' is not defined
+17:42:08,335 root DEBUG name 'font' is not defined
+17:42:08,347 root DEBUG name 'font' is not defined
+17:42:08,358 root DEBUG name 'font' is not defined
+17:42:08,368 root DEBUG name 'font' is not defined
+17:42:08,378 root DEBUG name 'font' is not defined
+17:42:08,388 root DEBUG name 'font' is not defined
+17:42:08,398 root DEBUG name 'font' is not defined
+17:42:08,408 root DEBUG name 'font' is not defined
+17:42:08,418 root DEBUG name 'font' is not defined
+17:42:08,428 root DEBUG name 'font' is not defined
+17:42:08,438 root DEBUG name 'font' is not defined
+17:42:08,447 root DEBUG name 'font' is not defined
+17:42:08,457 root DEBUG name 'font' is not defined
+17:42:08,466 root DEBUG name 'font' is not defined
+17:42:08,476 root DEBUG name 'font' is not defined
+17:42:08,485 root DEBUG name 'font' is not defined
+17:42:08,494 root DEBUG name 'font' is not defined
+17:42:08,503 root DEBUG name 'font' is not defined
+17:42:08,512 root DEBUG name 'font' is not defined
+17:42:08,521 root DEBUG name 'font' is not defined
+17:42:08,530 root DEBUG name 'font' is not defined
+17:42:08,539 root DEBUG name 'font' is not defined
+17:42:08,549 root DEBUG name 'font' is not defined
+17:42:08,559 root DEBUG name 'font' is not defined
+17:42:08,569 root DEBUG name 'font' is not defined
+17:42:08,577 root DEBUG name 'font' is not defined
+17:42:08,586 root DEBUG name 'font' is not defined
+17:42:08,595 root DEBUG name 'font' is not defined
+17:42:08,605 root DEBUG name 'font' is not defined
+17:42:08,614 root DEBUG name 'font' is not defined
+17:42:08,624 root DEBUG name 'font' is not defined
+17:42:08,634 root DEBUG name 'font' is not defined
+17:42:08,644 root DEBUG name 'font' is not defined
+17:42:08,653 root DEBUG name 'font' is not defined
+17:42:08,663 root DEBUG name 'font' is not defined
+17:42:08,672 root DEBUG name 'font' is not defined
+17:42:08,681 root DEBUG name 'font' is not defined
+17:42:08,690 root DEBUG name 'font' is not defined
+17:42:08,699 root DEBUG name 'font' is not defined
+17:42:08,708 root DEBUG name 'font' is not defined
+17:42:08,717 root DEBUG name 'font' is not defined
+17:42:08,726 root DEBUG name 'font' is not defined
+17:42:08,734 root DEBUG name 'font' is not defined
+17:42:08,743 root DEBUG name 'font' is not defined
+17:42:08,752 root DEBUG name 'font' is not defined
+17:42:08,761 root DEBUG name 'font' is not defined
+17:42:08,770 root DEBUG name 'font' is not defined
+17:42:08,779 root DEBUG name 'font' is not defined
+17:42:08,789 root DEBUG name 'font' is not defined
+17:42:08,799 root DEBUG name 'font' is not defined
+17:42:08,808 root DEBUG name 'font' is not defined
+17:42:08,818 root DEBUG name 'font' is not defined
+17:42:08,827 root DEBUG name 'font' is not defined
+17:42:08,836 root DEBUG name 'font' is not defined
+17:42:08,845 root DEBUG name 'font' is not defined
+17:42:08,856 root DEBUG name 'font' is not defined
+17:42:08,867 root DEBUG name 'font' is not defined
+17:42:08,877 root DEBUG name 'font' is not defined
+17:42:08,886 root DEBUG name 'font' is not defined
+17:42:08,895 root DEBUG name 'font' is not defined
+17:42:08,904 root DEBUG name 'font' is not defined
+17:42:08,912 root DEBUG name 'font' is not defined
+17:42:08,922 root DEBUG name 'font' is not defined
+17:42:08,930 root DEBUG name 'font' is not defined
+17:42:08,938 root DEBUG name 'font' is not defined
+17:42:08,947 root DEBUG name 'font' is not defined
+17:42:08,956 root DEBUG name 'font' is not defined
+17:42:08,965 root DEBUG name 'font' is not defined
+17:42:08,974 root DEBUG name 'font' is not defined
+17:42:08,984 root DEBUG name 'font' is not defined
+17:42:08,994 root DEBUG name 'font' is not defined
+17:42:09,4 root DEBUG name 'font' is not defined
+17:42:09,13 root DEBUG name 'font' is not defined
+17:42:09,23 root DEBUG name 'font' is not defined
+17:42:09,33 root DEBUG name 'font' is not defined
+17:42:09,42 root DEBUG name 'font' is not defined
+17:42:09,52 root DEBUG name 'font' is not defined
+17:42:09,62 root DEBUG name 'font' is not defined
+17:42:09,73 root DEBUG name 'font' is not defined
+17:42:09,83 root DEBUG name 'font' is not defined
+17:42:09,92 root DEBUG name 'font' is not defined
+17:42:09,101 root DEBUG name 'font' is not defined
+17:42:09,110 root DEBUG name 'font' is not defined
+17:42:09,119 root DEBUG name 'font' is not defined
+17:42:09,128 root DEBUG name 'font' is not defined
+17:42:09,137 root DEBUG name 'font' is not defined
+17:42:09,145 root DEBUG name 'font' is not defined
+17:42:09,154 root DEBUG name 'font' is not defined
+17:42:09,163 root DEBUG name 'font' is not defined
+17:42:09,171 root DEBUG name 'font' is not defined
+17:42:09,179 root DEBUG name 'font' is not defined
+17:42:09,188 root DEBUG name 'font' is not defined
+17:42:09,197 root DEBUG name 'font' is not defined
+17:42:09,206 root DEBUG name 'font' is not defined
+17:42:09,216 root DEBUG name 'font' is not defined
+17:42:09,225 root DEBUG name 'font' is not defined
+17:42:09,234 root DEBUG name 'font' is not defined
+17:42:09,244 root DEBUG name 'font' is not defined
+17:42:09,253 root DEBUG name 'font' is not defined
+17:42:09,262 root DEBUG name 'font' is not defined
+17:42:09,272 root DEBUG name 'font' is not defined
+17:42:09,283 root DEBUG name 'font' is not defined
+17:42:09,292 root DEBUG name 'font' is not defined
+17:42:09,302 root DEBUG name 'font' is not defined
+17:42:09,311 root DEBUG name 'font' is not defined
+17:42:09,320 root DEBUG name 'font' is not defined
+17:42:09,329 root DEBUG name 'font' is not defined
+17:42:09,339 root DEBUG name 'font' is not defined
+17:42:09,348 root DEBUG name 'font' is not defined
+17:42:09,356 root DEBUG name 'font' is not defined
+17:42:09,365 root DEBUG name 'font' is not defined
+17:42:09,374 root DEBUG name 'font' is not defined
+17:42:09,383 root DEBUG name 'font' is not defined
+17:42:09,392 root DEBUG name 'font' is not defined
+17:42:09,401 root DEBUG name 'font' is not defined
+17:42:09,410 root DEBUG name 'font' is not defined
+17:42:09,419 root DEBUG name 'font' is not defined
+17:42:09,428 root DEBUG name 'font' is not defined
+17:42:09,438 root DEBUG name 'font' is not defined
+17:42:09,447 root DEBUG name 'font' is not defined
+17:42:09,457 root DEBUG name 'font' is not defined
+17:42:09,466 root DEBUG name 'font' is not defined
+17:42:09,475 root DEBUG name 'font' is not defined
+17:42:09,485 root DEBUG name 'font' is not defined
+17:42:09,494 root DEBUG name 'font' is not defined
+17:42:09,504 root DEBUG name 'font' is not defined
+17:42:09,513 root DEBUG name 'font' is not defined
+17:42:09,522 root DEBUG name 'font' is not defined
+17:42:09,531 root DEBUG name 'font' is not defined
+17:42:09,540 root DEBUG name 'font' is not defined
+17:42:09,549 root DEBUG name 'font' is not defined
+17:42:09,558 root DEBUG name 'font' is not defined
+17:42:09,568 root DEBUG name 'font' is not defined
+17:42:09,577 root DEBUG name 'font' is not defined
+17:42:09,586 root DEBUG name 'font' is not defined
+17:42:09,596 root DEBUG name 'font' is not defined
+17:42:09,605 root DEBUG name 'font' is not defined
+17:42:09,614 root DEBUG name 'font' is not defined
+17:42:09,623 root DEBUG name 'font' is not defined
+17:42:09,632 root DEBUG name 'font' is not defined
+17:42:09,641 root DEBUG name 'font' is not defined
+17:42:09,651 root DEBUG name 'font' is not defined
+17:42:09,660 root DEBUG name 'font' is not defined
+17:42:09,669 root DEBUG name 'font' is not defined
+17:42:09,679 root DEBUG name 'font' is not defined
+17:42:09,688 root DEBUG name 'font' is not defined
+17:42:09,698 root DEBUG name 'font' is not defined
+17:42:09,707 root DEBUG name 'font' is not defined
+17:42:09,716 root DEBUG name 'font' is not defined
+17:42:09,727 root DEBUG name 'font' is not defined
+17:42:09,736 root DEBUG name 'font' is not defined
+17:42:09,745 root DEBUG name 'font' is not defined
+17:42:09,754 root DEBUG name 'font' is not defined
+17:42:09,763 root DEBUG name 'font' is not defined
+17:42:09,772 root DEBUG name 'font' is not defined
+17:42:09,781 root DEBUG name 'font' is not defined
+17:42:09,790 root DEBUG name 'font' is not defined
+17:42:09,799 root DEBUG name 'font' is not defined
+17:42:09,808 root DEBUG name 'font' is not defined
+17:42:09,817 root DEBUG name 'font' is not defined
+17:42:09,825 root DEBUG name 'font' is not defined
+17:42:09,834 root DEBUG name 'font' is not defined
+17:42:09,843 root DEBUG name 'font' is not defined
+17:42:09,852 root DEBUG name 'font' is not defined
+17:42:09,861 root DEBUG name 'font' is not defined
+17:42:09,870 root DEBUG name 'font' is not defined
+17:42:09,881 root DEBUG name 'font' is not defined
+17:42:09,890 root DEBUG name 'font' is not defined
+17:42:09,900 root DEBUG name 'font' is not defined
+17:42:09,909 root DEBUG name 'font' is not defined
+17:42:09,917 root DEBUG name 'font' is not defined
+17:42:09,927 root DEBUG name 'font' is not defined
+17:42:09,936 root DEBUG name 'font' is not defined
+17:42:09,945 root DEBUG name 'font' is not defined
+17:42:09,955 root DEBUG name 'font' is not defined
+17:42:09,964 root DEBUG name 'font' is not defined
+17:42:09,973 root DEBUG name 'font' is not defined
+17:42:09,983 root DEBUG name 'font' is not defined
+17:42:09,992 root DEBUG name 'font' is not defined
+17:42:10,1 root DEBUG name 'font' is not defined
+17:42:10,10 root DEBUG name 'font' is not defined
+17:42:10,19 root DEBUG name 'font' is not defined
+17:42:10,28 root DEBUG name 'font' is not defined
+17:42:10,37 root DEBUG name 'font' is not defined
+17:42:10,46 root DEBUG name 'font' is not defined
+17:42:10,56 root DEBUG name 'font' is not defined
+17:42:10,65 root DEBUG name 'font' is not defined
+17:42:10,74 root DEBUG name 'font' is not defined
+17:42:10,83 root DEBUG name 'font' is not defined
+17:42:10,92 root DEBUG name 'font' is not defined
+17:42:10,103 root DEBUG name 'font' is not defined
+17:42:10,112 root DEBUG name 'font' is not defined
+17:42:10,121 root DEBUG name 'font' is not defined
+17:42:10,130 root DEBUG name 'font' is not defined
+17:42:10,139 root DEBUG name 'font' is not defined
+17:42:10,149 root DEBUG name 'font' is not defined
+17:42:10,158 root DEBUG name 'font' is not defined
+17:42:10,167 root DEBUG name 'font' is not defined
+17:42:10,177 root DEBUG name 'font' is not defined
+17:42:10,186 root DEBUG name 'font' is not defined
+17:42:10,195 root DEBUG name 'font' is not defined
+17:42:10,204 root DEBUG name 'font' is not defined
+17:42:10,212 root DEBUG name 'font' is not defined
+17:42:10,221 root DEBUG name 'font' is not defined
+17:42:10,229 root DEBUG name 'font' is not defined
+17:42:10,238 root DEBUG name 'font' is not defined
+17:42:10,247 root DEBUG name 'font' is not defined
+17:42:10,255 root DEBUG name 'font' is not defined
+17:42:10,264 root DEBUG name 'font' is not defined
+17:42:10,273 root DEBUG name 'font' is not defined
+17:42:10,281 root DEBUG name 'font' is not defined
+17:42:10,290 root DEBUG name 'font' is not defined
+17:42:10,299 root DEBUG name 'font' is not defined
+17:42:10,308 root DEBUG name 'font' is not defined
+17:42:10,318 root DEBUG name 'font' is not defined
+17:42:10,327 root DEBUG name 'font' is not defined
+17:42:10,337 root DEBUG name 'font' is not defined
+17:42:10,346 root DEBUG name 'font' is not defined
+17:42:10,356 root DEBUG name 'font' is not defined
+17:42:10,366 root DEBUG name 'font' is not defined
+17:42:10,374 root DEBUG name 'font' is not defined
+17:42:10,385 root DEBUG name 'font' is not defined
+17:42:10,396 root DEBUG name 'font' is not defined
+17:42:10,408 root DEBUG name 'font' is not defined
+17:42:10,417 root DEBUG name 'font' is not defined
+17:42:10,422 root DEBUG DONE ALL
+17:42:10,427 root DEBUG name 'font' is not defined
+17:42:10,435 root DEBUG name 'font' is not defined
+17:42:10,444 root DEBUG name 'font' is not defined
+17:42:10,453 root DEBUG name 'font' is not defined
+17:42:10,462 root DEBUG name 'font' is not defined
+17:42:10,470 root DEBUG name 'font' is not defined
+17:42:10,479 root DEBUG name 'font' is not defined
+17:42:10,487 root DEBUG name 'font' is not defined
+17:42:10,496 root DEBUG name 'font' is not defined
+17:42:10,507 root DEBUG name 'font' is not defined
+17:42:10,516 root DEBUG name 'font' is not defined
+17:42:10,525 root DEBUG name 'font' is not defined
+17:42:10,534 root DEBUG name 'font' is not defined
+17:42:10,544 root DEBUG name 'font' is not defined
+17:42:10,554 root DEBUG name 'font' is not defined
+17:42:10,563 root DEBUG name 'font' is not defined
+17:42:10,572 root DEBUG name 'font' is not defined
+17:42:10,583 root DEBUG name 'font' is not defined
+17:42:10,592 root DEBUG name 'font' is not defined
+17:42:10,602 root DEBUG name 'font' is not defined
+17:42:10,611 root DEBUG name 'font' is not defined
+17:42:10,620 root DEBUG name 'font' is not defined
+17:42:10,630 root DEBUG name 'font' is not defined
+17:42:10,639 root DEBUG name 'font' is not defined
+17:42:10,648 root DEBUG name 'font' is not defined
+17:42:10,657 root DEBUG name 'font' is not defined
+17:42:10,666 root DEBUG name 'font' is not defined
+17:42:10,675 root DEBUG name 'font' is not defined
+17:42:10,684 root DEBUG name 'font' is not defined
+17:42:10,693 root DEBUG name 'font' is not defined
+17:42:10,702 root DEBUG name 'font' is not defined
+17:42:10,711 root DEBUG name 'font' is not defined
+17:42:10,720 root DEBUG name 'font' is not defined
+17:42:10,730 root DEBUG name 'font' is not defined
+17:42:10,740 root DEBUG name 'font' is not defined
+17:42:10,749 root DEBUG name 'font' is not defined
+17:42:10,760 root DEBUG name 'font' is not defined
+17:42:10,770 root DEBUG name 'font' is not defined
+17:42:10,779 root DEBUG name 'font' is not defined
+17:42:10,789 root DEBUG name 'font' is not defined
+17:42:10,798 root DEBUG name 'font' is not defined
+17:42:10,807 root DEBUG name 'font' is not defined
+17:42:10,818 root DEBUG name 'font' is not defined
+17:42:10,827 root DEBUG name 'font' is not defined
+17:42:10,836 root DEBUG name 'font' is not defined
+17:42:10,846 root DEBUG name 'font' is not defined
+17:42:10,855 root DEBUG name 'font' is not defined
+17:42:10,866 root DEBUG name 'font' is not defined
+17:42:10,875 root DEBUG name 'font' is not defined
+17:42:10,884 root DEBUG name 'font' is not defined
+17:42:10,894 root DEBUG name 'font' is not defined
+17:42:10,904 root DEBUG name 'font' is not defined
+17:42:10,914 root DEBUG name 'font' is not defined
+17:42:10,923 root DEBUG name 'font' is not defined
+17:42:10,932 root DEBUG name 'font' is not defined
+17:42:10,942 root DEBUG name 'font' is not defined
+17:42:10,951 root DEBUG name 'font' is not defined
+17:42:10,960 root DEBUG name 'font' is not defined
+17:42:10,970 root DEBUG name 'font' is not defined
+17:42:10,979 root DEBUG name 'font' is not defined
+17:42:10,989 root DEBUG name 'font' is not defined
+17:42:10,999 root DEBUG name 'font' is not defined
+17:42:11,7 root DEBUG name 'font' is not defined
+17:42:11,16 root DEBUG name 'font' is not defined
+17:42:11,26 root DEBUG name 'font' is not defined
+17:42:11,35 root DEBUG name 'font' is not defined
+17:42:11,43 root DEBUG name 'font' is not defined
+17:42:11,52 root DEBUG name 'font' is not defined
+17:42:11,61 root DEBUG name 'font' is not defined
+17:42:11,82 root DEBUG name 'font' is not defined
+17:42:11,90 root DEBUG name 'font' is not defined
+17:42:11,99 root DEBUG name 'font' is not defined
+17:42:11,107 root DEBUG name 'font' is not defined
+17:42:11,115 root DEBUG name 'font' is not defined
+17:42:11,125 root DEBUG name 'font' is not defined
+17:42:11,142 root DEBUG DONE447857-PF1FKN-86-02
+17:42:11,144 root DEBUG DONE ALL
+17:42:23,297 root INFO Running  
+17:42:27,434 root DEBUG OK
+17:42:27,438 root DEBUG ['447857-PF1FKN-86-02.png']
+17:42:27,439 root DEBUG STOP
+17:42:27,439 root DEBUG RUNNING447857-PF1FKN-86-02
+17:42:27,460 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:42:27,460 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:42:27,460 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:42:43,291 root DEBUG DONE447857-PF1FKN-86-02
+17:42:43,292 root DEBUG DONE ALL
+17:44:51,314 root INFO Running  
+17:44:52,826 root DEBUG OK
+17:44:52,829 root DEBUG ['gernol.com_123.png']
+17:44:52,830 root DEBUG STOP
+17:44:52,830 root DEBUG RUNNINGgernol.com_123
+17:44:52,851 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:44:52,851 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:44:52,851 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:45:07,560 root DEBUG DONEgernol.com_123
+17:45:07,562 root DEBUG DONE ALL
+17:46:36,144 root INFO Running  
+17:46:38,25 root DEBUG OK
+17:46:38,27 root DEBUG ['gernol.com_123.png']
+17:46:38,28 root DEBUG STOP
+17:46:38,28 root DEBUG RUNNINGgernol.com_123
+17:46:38,49 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:46:38,49 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:46:38,49 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:46:53,292 root DEBUG DONEgernol.com_123
+17:46:53,293 root DEBUG DONE ALL
+17:51:29,203 root INFO Running  
+17:51:30,635 root DEBUG OK
+17:51:30,638 root DEBUG ['gernol.com_123.png']
+17:51:30,639 root DEBUG STOP
+17:51:30,641 root DEBUG RUNNINGgernol.com_123
+17:51:30,662 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:51:30,662 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:51:30,662 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:51:45,341 root DEBUG DONEgernol.com_123
+17:51:45,343 root DEBUG DONE ALL
+17:53:15,383 root INFO Running  
+17:53:17,477 root DEBUG OK
+17:53:17,480 root DEBUG ['gernol.com_123.png']
+17:53:17,481 root DEBUG STOP
+17:53:17,481 root DEBUG RUNNINGgernol.com_123
+17:53:17,504 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:53:17,504 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:53:17,504 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:53:33,228 root DEBUG DONEgernol.com_123
+17:53:33,229 root DEBUG DONE ALL
+17:53:54,304 root INFO Running  
+17:53:55,908 root DEBUG OK
+17:53:55,911 root DEBUG ['gernol.com_123.png']
+17:53:55,912 root DEBUG STOP
+17:53:55,912 root DEBUG RUNNINGgernol.com_123
+17:53:55,936 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:53:55,936 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:53:55,936 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:54:11,212 root DEBUG DONEgernol.com_123
+17:54:11,213 root DEBUG DONE ALL
+17:54:54,663 root INFO Running  
+17:54:56,381 root DEBUG OK
+17:54:56,384 root DEBUG ['gernol.com_123.png']
+17:54:56,386 root DEBUG STOP
+17:54:56,386 root DEBUG RUNNINGgernol.com_123
+17:54:56,407 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:54:56,408 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:54:56,408 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:55:11,112 root DEBUG DONEgernol.com_123
+17:55:11,113 root DEBUG DONE ALL
+17:55:40,700 root INFO Running  
+17:55:42,333 root DEBUG OK
+17:55:42,336 root DEBUG ['gernol.com_123.png']
+17:55:42,337 root DEBUG STOP
+17:55:42,337 root DEBUG RUNNINGgernol.com_123
+17:55:42,359 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:55:42,359 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:55:42,359 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:55:57,69 root DEBUG DONEgernol.com_123
+17:55:57,72 root DEBUG DONE ALL
+17:56:47,643 root INFO Running  
+17:56:48,923 root DEBUG OK
+17:56:48,927 root DEBUG ['gernol.com_123.png']
+17:56:48,928 root DEBUG STOP
+17:56:48,929 root DEBUG RUNNINGgernol.com_123
+17:56:48,950 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:56:48,950 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:56:48,950 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:57:04,232 root DEBUG DONEgernol.com_123
+17:57:04,235 root DEBUG DONE ALL
+17:57:37,229 root INFO Running  
+17:57:39,100 root DEBUG OK
+17:57:39,103 root DEBUG ['gernol.com_123.png']
+17:57:39,104 root DEBUG STOP
+17:57:39,105 root DEBUG RUNNINGgernol.com_123
+17:57:39,126 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+17:57:39,127 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+17:57:39,127 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+17:57:53,735 root DEBUG DONEgernol.com_123
+17:57:53,736 root DEBUG DONE ALL
+18:00:07,417 root INFO Running  
+18:00:10,95 root DEBUG OK
+18:00:10,99 root DEBUG ['gernol.com_123.png']
+18:00:10,101 root DEBUG STOP
+18:00:10,101 root DEBUG RUNNINGgernol.com_123
+18:00:10,134 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:00:10,134 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:00:10,134 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:00:25,496 root DEBUG DONEgernol.com_123
+18:00:25,499 root DEBUG DONE ALL
+18:01:09,179 root INFO Running  
+18:01:12,630 root DEBUG OK
+18:01:12,633 root DEBUG ['gernol.com_123.png']
+18:01:12,634 root DEBUG STOP
+18:01:12,635 root DEBUG RUNNINGgernol.com_123
+18:01:12,655 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:01:12,655 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:01:12,655 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:01:25,576 root DEBUG DONEgernol.com_123
+18:01:25,577 root DEBUG DONE ALL
+18:02:36,660 root INFO Running  
+18:02:38,930 root DEBUG OK
+18:02:38,933 root DEBUG ['gernol.com_123.png']
+18:02:38,935 root DEBUG STOP
+18:02:38,935 root DEBUG RUNNINGgernol.com_123
+18:02:38,956 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:02:38,956 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:02:38,956 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:02:52,387 root DEBUG DONEgernol.com_123
+18:02:52,388 root DEBUG DONE ALL
+18:05:43,756 root INFO Running  
+18:05:45,757 root DEBUG OK
+18:05:45,760 root DEBUG ['gernol.com_123.png']
+18:05:45,761 root DEBUG STOP
+18:05:45,762 root DEBUG RUNNINGgernol.com_123
+18:05:45,783 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:05:45,783 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:05:45,783 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:05:59,332 root DEBUG DONEgernol.com_123
+18:05:59,333 root DEBUG DONE ALL
+18:06:48,487 root INFO Running  
+18:06:50,117 root DEBUG OK
+18:06:50,120 root DEBUG ['gernol.com_123.png']
+18:06:50,122 root DEBUG STOP
+18:06:50,122 root DEBUG RUNNINGgernol.com_123
+18:06:50,145 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:06:50,145 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:06:50,145 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:07:04,178 root DEBUG DONEgernol.com_123
+18:07:04,181 root DEBUG DONE ALL
+18:08:49,757 root INFO Running  
+18:08:51,472 root DEBUG OK
+18:08:51,475 root DEBUG ['gernol.com_123.png']
+18:08:51,476 root DEBUG STOP
+18:08:51,476 root DEBUG RUNNINGgernol.com_123
+18:08:51,499 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:08:51,499 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:08:51,499 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:09:05,30 root DEBUG DONEgernol.com_123
+18:09:05,31 root DEBUG DONE ALL
+18:14:12,132 root INFO Running  
+18:14:14,49 root DEBUG OK
+18:14:14,52 root DEBUG ['gernol.com_123.png']
+18:14:14,53 root DEBUG STOP
+18:14:14,53 root DEBUG RUNNINGgernol.com_123
+18:14:14,74 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:14:14,74 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:14:14,74 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:14:27,812 root DEBUG DONEgernol.com_123
+18:14:27,814 root DEBUG DONE ALL
+18:15:22,966 root INFO Running  
+18:15:24,413 root DEBUG OK
+18:15:24,416 root DEBUG ['gernol.com_123.png']
+18:15:24,418 root DEBUG STOP
+18:15:24,418 root DEBUG RUNNINGgernol.com_123
+18:15:24,440 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:15:24,440 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:15:24,440 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:15:38,469 root DEBUG DONEgernol.com_123
+18:15:38,471 root DEBUG DONE ALL
+18:22:14,275 root INFO Running  
+18:22:15,903 root DEBUG OK
+18:22:15,906 root DEBUG ['gernol.com_123.png']
+18:22:15,908 root DEBUG STOP
+18:22:15,908 root DEBUG RUNNINGgernol.com_123
+18:22:15,929 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:22:15,930 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:22:15,930 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:22:23,570 root DEBUG image has wrong mode
+18:22:23,586 root DEBUG image has wrong mode
+18:22:23,601 root DEBUG image has wrong mode
+18:22:23,617 root DEBUG image has wrong mode
+18:22:23,633 root DEBUG image has wrong mode
+18:22:23,649 root DEBUG image has wrong mode
+18:22:23,665 root DEBUG image has wrong mode
+18:22:23,680 root DEBUG image has wrong mode
+18:22:23,697 root DEBUG image has wrong mode
+18:22:23,714 root DEBUG image has wrong mode
+18:22:23,731 root DEBUG image has wrong mode
+18:22:23,747 root DEBUG image has wrong mode
+18:22:23,763 root DEBUG image has wrong mode
+18:22:23,781 root DEBUG image has wrong mode
+18:22:23,797 root DEBUG image has wrong mode
+18:22:23,814 root DEBUG image has wrong mode
+18:22:23,832 root DEBUG image has wrong mode
+18:22:23,849 root DEBUG image has wrong mode
+18:22:23,866 root DEBUG image has wrong mode
+18:22:23,882 root DEBUG image has wrong mode
+18:22:23,899 root DEBUG image has wrong mode
+18:22:23,916 root DEBUG image has wrong mode
+18:22:23,934 root DEBUG image has wrong mode
+18:22:23,952 root DEBUG image has wrong mode
+18:22:23,967 root DEBUG image has wrong mode
+18:22:23,983 root DEBUG image has wrong mode
+18:22:23,999 root DEBUG image has wrong mode
+18:22:24,17 root DEBUG image has wrong mode
+18:22:24,34 root DEBUG image has wrong mode
+18:22:24,50 root DEBUG image has wrong mode
+18:22:24,67 root DEBUG image has wrong mode
+18:22:24,85 root DEBUG image has wrong mode
+18:22:24,102 root DEBUG image has wrong mode
+18:22:24,118 root DEBUG image has wrong mode
+18:22:24,135 root DEBUG image has wrong mode
+18:22:24,151 root DEBUG image has wrong mode
+18:22:24,168 root DEBUG image has wrong mode
+18:22:24,186 root DEBUG image has wrong mode
+18:22:24,202 root DEBUG image has wrong mode
+18:22:24,219 root DEBUG image has wrong mode
+18:22:24,236 root DEBUG image has wrong mode
+18:22:24,254 root DEBUG image has wrong mode
+18:22:24,270 root DEBUG image has wrong mode
+18:22:24,287 root DEBUG image has wrong mode
+18:22:24,305 root DEBUG image has wrong mode
+18:22:24,321 root DEBUG image has wrong mode
+18:22:24,338 root DEBUG image has wrong mode
+18:22:24,355 root DEBUG image has wrong mode
+18:22:24,371 root DEBUG image has wrong mode
+18:22:24,387 root DEBUG image has wrong mode
+18:22:24,403 root DEBUG image has wrong mode
+18:22:24,420 root DEBUG image has wrong mode
+18:22:24,436 root DEBUG image has wrong mode
+18:22:24,453 root DEBUG image has wrong mode
+18:22:24,471 root DEBUG image has wrong mode
+18:22:24,488 root DEBUG image has wrong mode
+18:22:24,506 root DEBUG image has wrong mode
+18:22:24,523 root DEBUG image has wrong mode
+18:22:24,540 root DEBUG image has wrong mode
+18:22:24,556 root DEBUG image has wrong mode
+18:22:24,573 root DEBUG image has wrong mode
+18:22:24,592 root DEBUG image has wrong mode
+18:22:24,609 root DEBUG image has wrong mode
+18:22:24,625 root DEBUG image has wrong mode
+18:22:24,642 root DEBUG image has wrong mode
+18:22:24,659 root DEBUG image has wrong mode
+18:22:24,676 root DEBUG image has wrong mode
+18:22:24,693 root DEBUG image has wrong mode
+18:22:24,712 root DEBUG image has wrong mode
+18:22:24,731 root DEBUG image has wrong mode
+18:22:24,748 root DEBUG image has wrong mode
+18:22:24,766 root DEBUG image has wrong mode
+18:22:24,784 root DEBUG image has wrong mode
+18:22:24,801 root DEBUG image has wrong mode
+18:22:24,818 root DEBUG image has wrong mode
+18:22:24,834 root DEBUG image has wrong mode
+18:22:24,850 root DEBUG image has wrong mode
+18:22:24,866 root DEBUG image has wrong mode
+18:22:24,884 root DEBUG image has wrong mode
+18:22:24,900 root DEBUG image has wrong mode
+18:22:24,918 root DEBUG image has wrong mode
+18:22:24,935 root DEBUG image has wrong mode
+18:22:24,952 root DEBUG image has wrong mode
+18:22:24,970 root DEBUG image has wrong mode
+18:22:24,986 root DEBUG image has wrong mode
+18:22:25,3 root DEBUG image has wrong mode
+18:22:25,20 root DEBUG image has wrong mode
+18:22:25,36 root DEBUG image has wrong mode
+18:22:25,53 root DEBUG image has wrong mode
+18:22:25,69 root DEBUG image has wrong mode
+18:22:25,85 root DEBUG image has wrong mode
+18:22:25,102 root DEBUG image has wrong mode
+18:22:25,119 root DEBUG image has wrong mode
+18:22:25,137 root DEBUG image has wrong mode
+18:22:25,153 root DEBUG image has wrong mode
+18:22:25,170 root DEBUG image has wrong mode
+18:22:25,187 root DEBUG image has wrong mode
+18:22:25,204 root DEBUG image has wrong mode
+18:22:25,221 root DEBUG image has wrong mode
+18:22:25,237 root DEBUG image has wrong mode
+18:22:25,253 root DEBUG image has wrong mode
+18:22:25,270 root DEBUG image has wrong mode
+18:22:25,286 root DEBUG image has wrong mode
+18:22:25,306 root DEBUG image has wrong mode
+18:22:25,323 root DEBUG image has wrong mode
+18:22:25,340 root DEBUG image has wrong mode
+18:22:25,357 root DEBUG image has wrong mode
+18:22:25,374 root DEBUG image has wrong mode
+18:22:25,391 root DEBUG image has wrong mode
+18:22:25,407 root DEBUG image has wrong mode
+18:22:25,424 root DEBUG image has wrong mode
+18:22:25,440 root DEBUG image has wrong mode
+18:22:25,457 root DEBUG image has wrong mode
+18:22:25,474 root DEBUG image has wrong mode
+18:22:25,491 root DEBUG image has wrong mode
+18:22:25,507 root DEBUG image has wrong mode
+18:22:25,524 root DEBUG image has wrong mode
+18:22:25,541 root DEBUG image has wrong mode
+18:22:25,558 root DEBUG image has wrong mode
+18:22:25,575 root DEBUG image has wrong mode
+18:22:25,591 root DEBUG image has wrong mode
+18:22:25,608 root DEBUG image has wrong mode
+18:22:25,626 root DEBUG image has wrong mode
+18:22:25,646 root DEBUG image has wrong mode
+18:22:25,664 root DEBUG image has wrong mode
+18:22:25,681 root DEBUG image has wrong mode
+18:22:25,697 root DEBUG image has wrong mode
+18:22:25,713 root DEBUG image has wrong mode
+18:22:25,730 root DEBUG image has wrong mode
+18:22:25,747 root DEBUG image has wrong mode
+18:22:25,764 root DEBUG image has wrong mode
+18:22:25,780 root DEBUG image has wrong mode
+18:22:25,797 root DEBUG image has wrong mode
+18:22:25,814 root DEBUG image has wrong mode
+18:22:25,830 root DEBUG image has wrong mode
+18:22:25,847 root DEBUG image has wrong mode
+18:22:25,863 root DEBUG image has wrong mode
+18:22:25,880 root DEBUG image has wrong mode
+18:22:25,897 root DEBUG image has wrong mode
+18:22:25,913 root DEBUG image has wrong mode
+18:22:25,928 root DEBUG image has wrong mode
+18:22:25,944 root DEBUG image has wrong mode
+18:22:25,961 root DEBUG image has wrong mode
+18:22:25,978 root DEBUG image has wrong mode
+18:22:25,995 root DEBUG image has wrong mode
+18:22:26,12 root DEBUG image has wrong mode
+18:22:26,29 root DEBUG image has wrong mode
+18:22:26,45 root DEBUG image has wrong mode
+18:22:26,62 root DEBUG image has wrong mode
+18:22:26,80 root DEBUG image has wrong mode
+18:22:26,96 root DEBUG image has wrong mode
+18:22:26,112 root DEBUG image has wrong mode
+18:22:26,129 root DEBUG image has wrong mode
+18:22:26,145 root DEBUG image has wrong mode
+18:22:26,162 root DEBUG image has wrong mode
+18:22:26,177 root DEBUG image has wrong mode
+18:22:26,194 root DEBUG image has wrong mode
+18:22:26,211 root DEBUG image has wrong mode
+18:22:26,227 root DEBUG image has wrong mode
+18:22:26,244 root DEBUG image has wrong mode
+18:22:26,261 root DEBUG image has wrong mode
+18:22:26,278 root DEBUG image has wrong mode
+18:22:26,295 root DEBUG image has wrong mode
+18:22:26,312 root DEBUG image has wrong mode
+18:22:26,328 root DEBUG image has wrong mode
+18:22:26,344 root DEBUG image has wrong mode
+18:22:26,359 root DEBUG image has wrong mode
+18:22:26,376 root DEBUG image has wrong mode
+18:22:26,392 root DEBUG image has wrong mode
+18:22:26,410 root DEBUG image has wrong mode
+18:22:26,427 root DEBUG image has wrong mode
+18:22:26,443 root DEBUG image has wrong mode
+18:22:26,460 root DEBUG image has wrong mode
+18:22:26,477 root DEBUG image has wrong mode
+18:22:26,494 root DEBUG image has wrong mode
+18:22:26,511 root DEBUG image has wrong mode
+18:22:26,528 root DEBUG image has wrong mode
+18:22:26,544 root DEBUG image has wrong mode
+18:22:26,559 root DEBUG image has wrong mode
+18:22:26,575 root DEBUG image has wrong mode
+18:22:26,591 root DEBUG image has wrong mode
+18:22:26,608 root DEBUG image has wrong mode
+18:22:26,625 root DEBUG image has wrong mode
+18:22:26,642 root DEBUG image has wrong mode
+18:22:26,660 root DEBUG image has wrong mode
+18:22:26,677 root DEBUG image has wrong mode
+18:22:26,694 root DEBUG image has wrong mode
+18:22:26,711 root DEBUG image has wrong mode
+18:22:26,730 root DEBUG image has wrong mode
+18:22:26,747 root DEBUG image has wrong mode
+18:22:26,763 root DEBUG image has wrong mode
+18:22:26,779 root DEBUG image has wrong mode
+18:22:26,795 root DEBUG image has wrong mode
+18:22:26,811 root DEBUG image has wrong mode
+18:22:26,827 root DEBUG image has wrong mode
+18:22:26,845 root DEBUG image has wrong mode
+18:22:26,861 root DEBUG image has wrong mode
+18:22:27,150 root DEBUG DONEgernol.com_123
+18:22:27,151 root DEBUG DONE ALL
+18:28:05,381 root INFO Running  
+18:28:06,790 root DEBUG OK
+18:28:06,793 root DEBUG ['gernol.com_123.png']
+18:28:06,794 root DEBUG STOP
+18:28:06,794 root DEBUG RUNNINGgernol.com_123
+18:28:06,816 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:28:06,816 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:28:06,816 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:28:20,755 root DEBUG DONEgernol.com_123
+18:28:20,757 root DEBUG DONE ALL
+18:30:42,11 root INFO Running  
+18:30:43,323 root DEBUG OK
+18:30:43,325 root DEBUG ['gernol.com_123.png']
+18:30:43,327 root DEBUG STOP
+18:30:43,327 root DEBUG RUNNINGgernol.com_123
+18:30:43,349 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:30:43,349 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:30:43,349 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:31:01,727 root DEBUG DONEgernol.com_123
+18:31:01,729 root DEBUG DONE ALL
+18:39:04,947 root INFO Running  
+18:39:06,513 root DEBUG OK
+18:39:06,516 root DEBUG ['gernol.com_123.png']
+18:39:06,517 root DEBUG STOP
+18:39:06,518 root DEBUG RUNNINGgernol.com_123
+18:39:06,540 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:39:06,540 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:39:06,540 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:39:20,314 root DEBUG DONEgernol.com_123
+18:39:20,316 root DEBUG DONE ALL
+18:40:37,878 root INFO Running  
+18:40:39,923 root DEBUG OK
+18:40:39,927 root DEBUG ['gernol.com_123.png']
+18:40:39,928 root DEBUG STOP
+18:40:39,928 root DEBUG RUNNINGgernol.com_123
+18:40:39,949 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:40:39,949 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:40:39,949 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:40:53,235 root DEBUG DONEgernol.com_123
+18:40:53,237 root DEBUG DONE ALL
+18:43:22,287 root INFO Running  
+18:43:25,83 root DEBUG OK
+18:43:25,86 root DEBUG ['gernol.com_123.png']
+18:43:25,88 root DEBUG STOP
+18:43:25,88 root DEBUG RUNNINGgernol.com_123
+18:43:25,108 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:43:25,109 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:43:25,109 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:43:38,998 root DEBUG DONEgernol.com_123
+18:43:38,999 root DEBUG DONE ALL
+18:44:21,270 root INFO Running  
+18:44:23,14 root DEBUG OK
+18:44:23,16 root DEBUG ['gernol.com_123.png']
+18:44:23,18 root DEBUG STOP
+18:44:23,18 root DEBUG RUNNINGgernol.com_123
+18:44:23,38 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+18:44:23,38 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+18:44:23,39 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+18:44:36,868 root DEBUG DONEgernol.com_123
+18:44:36,869 root DEBUG DONE ALL
+20:00:47,410 root INFO Running  
+20:45:35,172 root INFO Running  
+20:45:37,245 root DEBUG OK
+20:45:37,250 root DEBUG ['gernol.com_123.png']
+20:45:37,250 root DEBUG STOP
+20:45:37,251 root DEBUG RUNNINGgernol.com_123
+20:45:37,260 PIL.PngImagePlugin DEBUG STREAM b'IHDR' 16 13
+20:45:37,260 PIL.PngImagePlugin DEBUG STREAM b'pHYs' 41 9
+20:45:37,260 PIL.PngImagePlugin DEBUG STREAM b'IDAT' 62 8192
+20:45:51,55 root DEBUG DONEgernol.com_123
+20:45:51,56 root DEBUG DONE ALL
