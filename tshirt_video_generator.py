@@ -69,6 +69,7 @@ class MyWindow:
 
         self.frame_set=cur_dir+'/dataset/frame_set'
         self.file_mp4 = cur_dir + "/dataset/origin_video.mp4"
+        self.default_file_mp4=self.file_mp4
         self.folder_output = cur_dir + "/dataset/folder_output"
         self.lbl0 = Label(win, text='NOTE: DOI KET QUA O OUTPUT FOLDER!', bg="white", fg="red", font=("Arial", 11))
         self.lbl1 = Label(win, text='LIST DESIGN PNG (default: ' + self.folder_png + ')', bg="black", fg="white",
@@ -147,6 +148,7 @@ class MyWindow:
     def callback_file_mp4(self):
         try:
             self.file_mp4 = fd.askopenfilename(filetypes=[("MP4 files", "*.mp4")])
+            self.default_file_mp4 = self.file_mp4
             self.lbl33.configure(text=str('MP4: ' + self.file_mp4))
         except Exception as e:
             logging.debug(str(e))
@@ -161,6 +163,7 @@ class MyWindow:
             logging.debug("ERROR callback_file_mp4")
 
     def convert_video_to_int_size(self):
+        self.file_mp4=self.default_file_mp4
         try:
             mp4_origin = cv2.VideoCapture(self.file_mp4)
             width_origin = int(mp4_origin.get(cv2.CAP_PROP_FRAME_WIDTH))
@@ -176,6 +179,8 @@ class MyWindow:
                     cv2.waitKey(1)
                 else:
                     break
+            mp4_origin.release()
+            mp4_fix_size.release()
             self.file_mp4 = cur_dir + "/dataset/folder_output" + '/video_fix_size.mp4'
         except Exception as e:
             logging.debug(str(e))
@@ -193,12 +198,14 @@ class MyWindow:
                 logging.debug("OK")
             else:
                 self.convert_video_to_int_size()
+            file_mp4_origin.release()
         except Exception as e:
             logging.debug(str(e))
             logging.debug("SOME THING WRONG fix_file_mp4")
 
     def write_original_video_with_background_default(self):
         try:
+            self.file_mp4 = self.default_file_mp4
             self.t5.configure(text=str("RUNNING " + str('write_original_video_with_background_default')), bg="gray", fg="blue")
             mp4_origin = cv2.VideoCapture(self.file_mp4)
             width_origin = int(mp4_origin.get(cv2.CAP_PROP_FRAME_WIDTH))
@@ -221,6 +228,7 @@ class MyWindow:
                         if count>=self.start_model and count<=self.end_model:
                             frame_gif=Image.open(self.frame_set+'/'+'frame_'+str(count)+'.png').convert('RGBA')
                             pilim.paste(frame_gif, box=(0, 0),mask=frame_gif)
+                            frame_gif.close()
                         frame = np.array(pilim)
                         frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
                     original_new_background.write(frame)
@@ -228,7 +236,9 @@ class MyWindow:
                     count=count+1
                 else:
                     break
-
+            mp4_origin.release()
+            original_new_background.release()
+            back_ground_image.close()
             self.file_mp4 = cur_dir + "/dataset/origin_video_add_background.mp4"
         except Exception as e:
             logging.debug(str(e))
@@ -278,9 +288,11 @@ class MyWindow:
                         if count>=self.start_open and count<=self.end_open:
                             frame_gif=Image.open(self.frame_set+'/'+'frame_'+str(count)+'.png').convert('RGBA')
                             pilim.paste(frame_gif, box=(0, 0),mask=frame_gif)
+                            frame_gif.close()
                         if count>=self.start_close and count<=self.end_close:
                             frame_gif=Image.open(self.frame_set+'/'+'frame_'+str(count)+'.png').convert('RGBA')
                             pilim.paste(frame_gif, box=(0, 0),mask=frame_gif)
+                            frame_gif.close()
                         frame = np.array(pilim)
                         frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
                         mp4_out.write(frame)
@@ -317,6 +329,11 @@ class MyWindow:
 
             mp4_origin.release()
             mp4_out.release()
+            image.close()
+            try:
+                os.rename(path_image, self.folder_output+"/DONE_IMAGE/"+link_sp+'.png')
+            except:
+                logging.debug(str(e))
             cv2.destroyAllWindows()
         except Exception as e:
             print(e)
@@ -350,6 +367,8 @@ class MyWindow:
             self.end_frame_text = int(self.et4.get())
             self.number_thread = int(self.et55.get())
 
+            if not os.path.exists(self.folder_output+'/DONE_IMAGE'):
+                os.makedirs(self.folder_output+'/DONE_IMAGE')
             # print(self.is_new_background.get())
 
 
